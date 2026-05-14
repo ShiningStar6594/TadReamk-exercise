@@ -9,6 +9,11 @@ The script is currently set up for **Traditional Chinese** WhatsApp Web.
 If your WhatsApp language is different, update the following selectors in `whatsapp_send.py`:
 - `附加` → your language's word for "Attach"
 - `文件` → your language's word for "Document"
+- Set the phone number you want to send in the stocksdataa.py file
+- set the author name in the toPDF file
+
+##Whatsapp set up
+Set the phone number as contact person
 
 ## Running
 Run python stocksdata.py in the terminal (or rename it and run it)
