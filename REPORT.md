@@ -1,5 +1,8 @@
 # Report: WhatsApp Stock Market PDF Delivery System
 
+## Demo Video
+https://www.youtube.com/watch?v=evrIq9XYAK0
+Note that sensitive information have been covered in the video for author privacy
 
 ## Problem Statement
 Data — Retrieve up-to-date information for the top ten stock markets in the world according to https://www.fool.com/research/largest-companies-by-market-cap/
