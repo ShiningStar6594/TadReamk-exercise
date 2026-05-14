@@ -13,6 +13,13 @@ If your WhatsApp language is different, update the following selectors in `whats
 ## Running
 Run python stocksdata.py in the terminal (or rename it and run it)
 
+## Start Running
+1. Stock data is fetched live from Yahoo Finance via yfinance
+2. A PDF is generated and saved as `stock_info.pdf`
+3. A browser window opens automatically and navigates to WhatsApp Web
+4. Scan the QR code to log in — session is saved for future runs (This can be avoided in second run unless you log out)
+5. The program search for the required phone number input in stocksdata.py
+
 ## Notes
 - Each step has a buffer delay of a few seconds to allow WhatsApp Web to load
 - After sending, the script waits briefly before closing the browser
