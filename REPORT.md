@@ -49,6 +49,7 @@ The automation:
 - Requires login and logout by users instead of the system code
 - yfinance is an unofficial library and may be inaccurate
 - deliver is only possible when the recipient is in the contact of the user
+- The set up can only works to person but not group chats
 
 
 ## Acknowledgements
