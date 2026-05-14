@@ -26,7 +26,7 @@ def whatsapp_sending(pdf, phone):
             file_chooser.set_files(pdf)
         time.sleep(1)
         page.keyboard.press("Enter")
-        time.sleep(40)
+        time.sleep(30)
 
         context.close()
 
