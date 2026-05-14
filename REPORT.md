@@ -53,6 +53,7 @@ The automation:
 - yfinance is an unofficial library and may be inaccurate
 - deliver is only possible when the recipient is in the contact of the user
 - The set up can only works to person but not group chats
+- Waiting is required to avoid the system loading too fast (In order to shorten the waiting time, time.sleep can be adjusted to a shorter time in the whatsapp_send.py)
 
 
 ## Acknowledgements
