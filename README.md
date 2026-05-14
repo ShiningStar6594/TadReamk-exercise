@@ -14,6 +14,7 @@ If your WhatsApp language is different, update the following selectors in `whats
 - `文件` → your language's word for "Document"
 - Set the phone number you want to send in the stocksdataa.py file
 - set the author name in the toPDF file
+-  time.sleep can be adjusted for a shorter time in the whatsapp_send.py during the run, tickers can be adjusted for other tickers in the stocksdata.py as well
 
 ##Whatsapp set up
 Set the phone number as contact person
